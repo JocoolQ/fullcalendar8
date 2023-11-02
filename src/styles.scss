@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.css';
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+.fc .fc-button-primary {
+     background-color: #E1AD01 !important; 
+}
+
+.fc-h-event {
+    border: 1px solid #E1AD01 !important;
+    background-color: #E1AD01 !important;
+}
+.fc-daygrid-event-dot {
+    border: 4px solid #E1AD01 !important;
+}
+/* a {
+    color: #E1AD01 !important;;
+} */
+    
